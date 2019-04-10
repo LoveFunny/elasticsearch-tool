@@ -1,0 +1,5 @@
+
+elastic:
+  address: 127.0.0.1:9200
+  suggest_size: 5
+
